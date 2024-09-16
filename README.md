@@ -1,1 +1,2 @@
 # odin-recipes
+Buat praktekin apa yang udah dipelajarin, ini mau bikin web berisi resep-resep makanan yang bakal ada gambar, deskripsi, ingredients, dan steps buatnya. Link tiap resep bakal di-embed pake anchor jadi nggak usah scroll tinggal klik resep yang dimau.
